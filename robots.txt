@@ -1,1 +1,1 @@
-User-agent: *Disallow:# Sitemap filesSitemap: https://prashanttripathi.ga/sitemap.xml
+User-agent: *Disallow:# Sitemap filesSitemap: https://ptprashanttripathi.github.io/sitemap.xml
