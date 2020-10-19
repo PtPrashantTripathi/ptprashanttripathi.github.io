@@ -44,13 +44,13 @@ Linkpe is a Node.js based API to generate shareable UPI Payment links, just fill
 
 ## 💻 Built with (Sources and Credits)
 
-www.unsplash.com
-https://fonts.google.com/specimen/Roboto
-http://zavoloklom.github.io/material-design-iconic-font/
-http://jquery.com
-https://material.io/icons/
-http://getbootstrap.com/
-https://getmdl.io/components/index.html
+- www.unsplash.com
+- https://fonts.google.com/specimen/Roboto
+- http://zavoloklom.github.io/material-design-iconic-font/
+- http://jquery.com
+- https://material.io/icons/
+- http://getbootstrap.com/
+- https://getmdl.io/components/index.html
 
 
 
@@ -99,6 +99,7 @@ https://getmdl.io/components/index.html
 [![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ptprashanttripathi) 
 [![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ptprashanttripathi)
 
+<hr>
 <p align="center">  
-<hr>Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in India 🇮🇳 
 </p>
