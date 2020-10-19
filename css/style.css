@@ -714,6 +714,9 @@ p {
 .bg-violet {
   background: #6200eb !important; }
 
+.bg-gray {
+  background: #211F1F !important; }
+
 .border-top-blue {
   border-top: 3px solid #2879ff; }
 
@@ -868,7 +871,7 @@ blockquote {
 .mdl-button {
   color: #fff;
   height: 40px;
-  padding: 3px 20px;
+  padding: 4px 18px;
   font-weight: 400; }
   .mdl-button.view-more {
     color: #444; }
@@ -1239,8 +1242,8 @@ blockquote {
   .about-sec .profile-wrap li .profile-title, .about-sec .profile-wrap li .profile-desc {
     display: inline-block; }
   .about-sec .profile-wrap li div.profile-title {
-    width: 150px;
-    margin-right: 20px;
+    /*! width: 150px; */
+    /*! margin-right: 20px; */
     text-transform: capitalize;
     color: #444; }
 .about-sec .datepicker {
@@ -1576,7 +1579,7 @@ blockquote {
 .blog-sec .mdl-card .mdl-card__title {
   overflow: hidden; }
   .blog-sec .mdl-card .mdl-card__title .blog-img {
-    height: 230px;
+    height: 150px;
     width: 100%;
     -moz-transform: scale(1.01);
     -o-transform: scale(1.01);
@@ -1611,7 +1614,7 @@ blockquote {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%); }
   .blog-sec .mdl-card .mdl-button--fab i {
-    font-size: 20px;
+    font-size: 28px;
     line-height: 48px;
     color: #fff; }
   .blog-sec .mdl-card .mdl-button--fab:hover i {
