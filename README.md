@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ptprashanttripathi.github.io"><img alt="linkpe app" src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi.github.io/main/img/img-bg-4.jpg" width="300vw"/></a></p>
+<p align="center"><a href="https://ptprashanttripathi.github.io"><img alt="linkpe app" src="/img/img-bg-4.jpg" width="300vw"/></a></p>
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/ptprashanttripathi.github.io.svg?style=flat-square"/></a>
