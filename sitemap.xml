@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
- <url>
-  <loc>https://ptprashanttrpathi.github.io/img</loc>
-  <lastmod>monthly</lastmod>
-  <changefreq>0.5</changefreq>
- </url>
- <url>
-  <loc>https://ptprashanttrpathi.github.io</loc>
-  <lastmod>monthly</lastmod>
-  <changefreq>0.5</changefreq>
- </url>
- <url>
-  <loc>https://ptprashanttripathi.github.io/IPL-2020-Prediction/</loc>
-  <lastmod>monthly</lastmod>
-  <changefreq>0.5</changefreq>
- </url>
- <url>
-  <loc>https://ptprashanttripathi.github.io/linkpe/</loc>
-  <lastmod>monthly</lastmod>
-  <changefreq>0.5</changefreq>
- </url>
- <url>
-  <loc>https://ptprashanttripathi.github.io/movieinfo</loc>
-  <lastmod>monthly</lastmod>
-  <changefreq>0.5</changefreq>
- </url>
-
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://ptprashanttripathi.github.io</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ptprashanttripathi.github.io/index.html</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ptprashanttripathi.github.io/PtPrashantTripathi-CV.pdf</loc>
+    <lastmod>2020-10-19</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
+<!--<guid value="f5d72f87-a56b-414b-8caa-c87f64954fd9" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
