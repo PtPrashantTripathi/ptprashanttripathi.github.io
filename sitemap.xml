@@ -3,15 +3,29 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://www.prashanttrpathi.ga/img</loc>
+  <loc>https://ptprashanttrpathi.github.io/img</loc>
   <lastmod>monthly</lastmod>
   <changefreq>0.5</changefreq>
  </url>
  <url>
-  <loc>http://www.prashanttrpathi.ga/index.php</loc>
+  <loc>https://ptprashanttrpathi.github.io</loc>
+  <lastmod>monthly</lastmod>
+  <changefreq>0.5</changefreq>
+ </url>
+ <url>
+  <loc>https://ptprashanttripathi.github.io/IPL-2020-Prediction/</loc>
+  <lastmod>monthly</lastmod>
+  <changefreq>0.5</changefreq>
+ </url>
+ <url>
+  <loc>https://ptprashanttripathi.github.io/linkpe/</loc>
+  <lastmod>monthly</lastmod>
+  <changefreq>0.5</changefreq>
+ </url>
+ <url>
+  <loc>https://ptprashanttripathi.github.io/movieinfo</loc>
   <lastmod>monthly</lastmod>
   <changefreq>0.5</changefreq>
  </url>
 
 </urlset>
-

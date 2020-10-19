@@ -31,9 +31,6 @@ Project:	Matresume
 @import url(material-icons.css);
 @import url(material-design-iconic-font.min.css);
 @import url(bootstrap.min.css);
-@import url(jquery-ui.min.css);
-@import url(owl.carousel.css);
-@import url(lightgallery.css);
 @import url(default-skin/default-skin.css);
 /****************************/
 /** Reset **/
@@ -1616,7 +1613,7 @@ blockquote {
   .blog-sec .mdl-card .mdl-button--fab i {
     font-size: 28px;
     line-height: 48px;
-    color: #fff; }
+    color: #e8eae9; }
   .blog-sec .mdl-card .mdl-button--fab:hover i {
     color: #fff; }
 .blog-sec .mdl-card .mdl-card__actions {
