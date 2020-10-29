@@ -28,8 +28,8 @@ Project:	Matresume
 /****************************/
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700);
 @import url(material.min.css);
-@import url(material-icons.css);
-@import url(material-design-iconic-font.min.css);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css);
 @import url(bootstrap.min.css);
 @import url(default-skin/default-skin.css);
 /****************************/
