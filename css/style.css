@@ -1576,7 +1576,7 @@ blockquote {
 .blog-sec .mdl-card .mdl-card__title {
   overflow: hidden; }
   .blog-sec .mdl-card .mdl-card__title .blog-img {
-    height: 150px;
+    /*height: 150px;*/
     width: 100%;
     -moz-transform: scale(1.01);
     -o-transform: scale(1.01);
@@ -1598,10 +1598,14 @@ blockquote {
   -o-transform: scale3d(1.1, 1.1, 1);
   -webkit-transform: scale3d(1.1, 1.1, 1);
   transform: scale3d(1.1, 1.1, 1); }
+.blog-sec .mdl-card .blog-cat .lang{
+width: 12px; height: 12px; border-radius: 100%; display: inline-block; top: 1px; position: relative;
+}
 .blog-sec .mdl-card .blog-cat {
   display: block;
   font-size: 14px;
   text-transform: capitalize; }
+  
 .blog-sec .mdl-card .mdl-button--fab {
   position: absolute;
   right: 20px;
@@ -1617,11 +1621,7 @@ blockquote {
   .blog-sec .mdl-card .mdl-button--fab:hover i {
     color: #fff; }
 .blog-sec .mdl-card .mdl-card__actions {
-  display: flex;
-  align-items: center;
-  padding-left: 20px;
-  padding-right: 25px;
-  border-bottom: none; }
+  display: flex; align-items: center; }
   .blog-sec .mdl-card .mdl-card__actions i {
     color: #848484;
     font-size: 20px; }
