@@ -1,0 +1,16 @@
+<p id='demo'></p>
+<script type="application/javascript">
+let response = fetch('https://api.github.com/repos/ptprashanttripathi/linkpe', {
+  headers: {
+    Accept: 'application/vnd.github.mercy-preview+json'
+  }
+}).then(response => {
+  return response.json();
+}).then(data => {
+  // Work with JSON data here
+  console.log(data);
+  document.getElementById("demo").innerHTML=JSON.stringify(data,null,'\t');
+}).catch(err => {
+  // Do something for an error here
+});
+</script>
