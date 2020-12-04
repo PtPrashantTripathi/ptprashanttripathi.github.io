@@ -28,9 +28,6 @@ Linkpe is a Node.js based API to generate shareable UPI Payment links, just fill
 
 ![](https://repository-images.githubusercontent.com/281363612/695e6280-1c65-11eb-9dea-911725639157)
 
-
-> Have a look: [LinkPe](https://ptprashanttripathi.github.io)
-
 ## 🧐 Features
 
 - Powered by: HTML5 I CSS3 I jQuery I Sass I Bootstrap v3.3.6 I Angular js I Material Design Lite
