@@ -1,0 +1,112 @@
+[
+{
+	"name": "bhagavad-gita-api",
+	"url": "https://github.com/vedicscriptures/bhagavad-gita-api",
+	"description": "A lightweight Node-based Bhagavad Gita API server",
+	"banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
+	"color": "#f1e05a",
+	"lang": "JavaScript",
+	"date": "2020-11-19T09:58:47Z",
+	"stars": "17",
+	"forks": "3"
+},
+{
+	"name": "IPL-2020-Prediction",
+	"url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
+	"description": "Predictive Analysis of an IPL Match using SVM Binary Classifier",
+	"banner": "https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
+	"color": "#e34c26",
+	"lang": "HTML",
+	"date": "2020-09-28T13:58:21Z",
+	"stars": "3",
+	"forks": "1"
+},
+{
+	"name": "linkpe",
+	"url": "https://github.com/PtPrashantTripathi/linkpe",
+	"description": "Linkpe is a Node.js based API to generate shareable UPI Payment links",
+	"banner": "https://repository-images.githubusercontent.com/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb",
+	"color": "#e34c26",
+	"lang": "HTML",
+	"date": "2020-10-09T08:16:31Z",
+	"stars": "1",
+	"forks": "0"
+},
+{
+	"name": "movieinfo",
+	"url": "https://github.com/PtPrashantTripathi/movieinfo",
+	"description": "Movie info app built with OMDb API that gets movie info from IMDb and Rotten Tomatoes.",
+	"banner": "https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
+	"color": "#e34c26",
+	"lang": "HTML",
+	"date": "2020-10-06T10:02:13Z",
+	"stars": "1",
+	"forks": "0"
+},
+{
+	"name": "innovationhub",
+	"url": "https://github.com/PtPrashantTripathi/innovationhub",
+	"description": "A social Networking Site for student to show there project works and skills",
+	"banner": "img/github_banner.jpg",
+	"color": "#4F5D95",
+	"lang": "PHP",
+	"date": "2019-02-23T17:05:29Z",
+	"stars": "4",
+	"forks": "0"
+},
+{
+	"name": "ptprashanttripathi.github.io",
+	"url": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io",
+	"description": "My Portfolio site using Material Design. [Mobile First Layout I Fully Responsive]",
+	"banner": "https://repository-images.githubusercontent.com/281363612/695e6280-1c65-11eb-9dea-911725639157",
+	"color": "#e34c26",
+	"lang": "HTML",
+	"date": "2020-07-21T10:12:04Z",
+	"stars": "3",
+	"forks": "1"
+},
+{
+	"name": "shreeganesh",
+	"url": "https://github.com/PtPrashantTripathi/shreeganesh",
+	"description": "This Astrology Android app based upon Krishna Jyotish Padathi.",
+	"banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
+	"color": "#e34c26",
+	"lang": "HTML",
+	"date": "2019-03-20T14:24:46Z",
+	"stars": "4",
+	"forks": "1"
+},
+{
+	"name": "cloud-storage-system",
+	"url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
+	"description": "An real-time Cloud Storage System, with various functionlity.",
+	"banner": "img/github_banner.jpg",
+	"color": "#211F1F",
+	"lang": "TSQL",
+	"date": "2019-04-08T19:14:55Z",
+	"stars": "4",
+	"forks": "0"
+},
+{
+	"name": "Adhyatma",
+	"url": "https://github.com/PtPrashantTripathi/Adhyatma",
+	"description": "An Integrated Approach for Development of Emotion Engine Driven by User Input",
+	"banner": "img/github_banner.jpg",
+	"color": "#4F5D95",
+	"lang": "PHP",
+	"date": "2019-03-12T18:04:10Z",
+	"stars": "4",
+	"forks": "0"
+},
+{
+	"name": "developer-portfolio",
+	"url": "https://github.com/PtPrashantTripathi/developer-portfolio",
+	"description": "This is my personal portfoio website for my details, work and blog. ",
+	"banner": "https://repository-images.githubusercontent.com/172948414/f9883280-01f5-11eb-8d2c-ba25b34ff4a5",
+	"color": "#563d7c",
+	"lang": "CSS",
+	"date": "2019-02-27T16:15:46Z",
+	"stars": "2",
+	"forks": "1"
+}
+]
