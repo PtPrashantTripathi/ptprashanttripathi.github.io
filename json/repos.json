@@ -6,7 +6,7 @@
 "banner":"https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
 "color":"#f1e05a",
 "lang":"JavaScript",
-"created_at":"2020-11-19T09:58:47Z",
+"date":"2020-11-19T09:58:47Z",
 "view":"39",
 "forks":"7"
 },
@@ -17,7 +17,7 @@
 "banner":"https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
 "color":"#e34c26",
 "lang":"HTML",
-"created_at":"2020-09-28T13:58:21Z",
+"date":"2020-09-28T13:58:21Z",
 "view":"5",
 "forks":"1"
 },
@@ -28,7 +28,7 @@
 "banner":"https://repository-images.githubusercontent.com/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb",
 "color":"#e34c26",
 "lang":"HTML",
-"created_at":"2020-10-09T08:16:31Z",
+"date":"2020-10-09T08:16:31Z",
 "view":"6",
 "forks":"2"
 },
@@ -39,7 +39,7 @@
 "banner":"https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
 "color":"#e34c26",
 "lang":"HTML",
-"created_at":"2020-10-06T10:02:13Z",
+"date":"2020-10-06T10:02:13Z",
 "view":"3",
 "forks":"1"
 },
@@ -50,7 +50,7 @@
 "banner":"https://repository-images.githubusercontent.com/281363612/695e6280-1c65-11eb-9dea-911725639157",
 "color":"#e34c26",
 "lang":"HTML",
-"created_at":"2020-07-21T10:12:04Z",
+"date":"2020-07-21T10:12:04Z",
 "view":"4",
 "forks":"1"
 },
@@ -61,7 +61,7 @@
 "banner":"https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
 "color":"#b07219",
 "lang":"Java",
-"created_at":"2019-03-20T14:24:46Z",
+"date":"2019-03-20T14:24:46Z",
 "view":"7",
 "forks":"1"
 },
@@ -72,7 +72,7 @@
 "banner":"https://avatars.githubusercontent.com/u/26687933?s=400&v=4",
 "color":"#b07219",
 "lang":"Java",
-"created_at":"2019-04-08T19:14:55Z",
+"date":"2019-04-08T19:14:55Z",
 "view":"6",
 "forks":"0"
 },
@@ -83,7 +83,7 @@
 "banner":"https://avatars.githubusercontent.com/u/26687933?s=400&v=4",
 "color":"#4F5D95",
 "lang":"PHP",
-"created_at":"2019-03-12T18:04:10Z",
+"date":"2019-03-12T18:04:10Z",
 "view":"6",
 "forks":"0"
 },
@@ -94,7 +94,7 @@
 "banner":"https://repository-images.githubusercontent.com/172948414/f9883280-01f5-11eb-8d2c-ba25b34ff4a5",
 "color":"#4F5D95",
 "lang":"PHP",
-"created_at":"2019-02-27T16:15:46Z",
+"date":"2019-02-27T16:15:46Z",
 "view":"4",
 "forks":"1"
 }
