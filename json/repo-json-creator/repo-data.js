@@ -36,7 +36,7 @@ window.addEventListener('DOMContentLoaded', async function() {
 						<br>"banner":"${img.data.image}",
 						<br>"color":"${rdata.language ? colors[rdata.language].color : ''}",
 						<br>"lang":"${rdata.language}",
-						<br>"created_at":"${rdata.created_at}",
+						<br>"date":"${rdata.created_at}",
 						<br>"view":"${rdata.stargazers_count}",
 						<br>"forks":"${rdata.forks}"
 						<br>}`;
