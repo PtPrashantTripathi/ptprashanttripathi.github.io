@@ -21,7 +21,7 @@ Examples of behaviour that contributes to creating a positive environment includ
 - Attacking personal tastes
 - Other conduct which you know could reasonably be considered inappropriate in a professional setting.
 - Enforcement
-- Violations of the Code of Conduct may be reported by sending an email to `pt8435782545@gmail.com`. All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
+- Violations of the Code of Conduct will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
 - We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
 
 ##Attribution
