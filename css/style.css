@@ -1465,7 +1465,8 @@ blockquote {
 .interest-sec .mdl-card i {
   font-size: 30px;
   display: block;
-  color: #fec107; }
+  color: #2879ff !important;
+  }
 .interest-sec .mdl-card span {
   display: block;
   text-transform: capitalize;

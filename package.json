@@ -1,0 +1,23 @@
+{
+  "name": "ptprashanttripathi.github.io",
+  "version": "1.0.0",
+  "description": "My Portfolio site using Material Design. [Mobile First Layout I Fully Responsive]",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/issues"
+  },
+  "homepage": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
