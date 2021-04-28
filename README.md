@@ -56,8 +56,8 @@ Linkpe is a Node.js based API to generate shareable UPI Payment links, just fill
 <p align="left">
 <a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
 </a>
-<a href="https://ptprashanttripathi.github.io?pa=pt1998@ybl&pn=PtPrashantTripathi">
-<img src="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/blob/main/img/linkpebadge.svg" alt="tweet"/>
+<a href="https://ptprashanttripathi.github.io/linkpe/?pa=pt1998%40ybl&pn=Pt.+Prashant+Tripathi">
+<img src="https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg" alt="linkpe"/>
 </a>
 </p>
 <p align="left">
