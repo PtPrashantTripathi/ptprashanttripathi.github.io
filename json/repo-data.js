@@ -9,13 +9,8 @@ window.addEventListener('DOMContentLoaded', async function() {
 	document.querySelectorAll('.repo').forEach(async function(el) {
 		const name = el.getAttribute('data-repo');
 		console.log(name);
-		const img = await get(`http://url-metadata.herokuapp.com/api/metadata?url=https%3A%2F%2Fgithub.com%2F${name}`);
+		const img = await get(`https://url-metadata.herokuapp.com/api/metadata?url=https%3A%2F%2Fgithub.com%2F${name}`);
 		const rdata = await get(`https://api.github.com/repos/${name}`);
-
-		/* code for img withoud social banner*/
-		if(img.data.image.trim() === "https://avatars3.githubusercontent.com/u/26687933?s=400&amp;v=4"){
-			img.data.image = 'img/github_banner.jpg';
-		}; 
 		
 		/* code for emoji*/
 		rdata.description = (rdata.description || '').replace(/:\w+:/g, function(match) {
