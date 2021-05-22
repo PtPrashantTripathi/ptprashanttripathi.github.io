@@ -7,8 +7,8 @@
 "color":"#f1e05a",
 "lang":"JavaScript",
 "date":"2020-11-19T09:58:47Z",
-"stars":"46",
-"forks":"8"
+"stars":"50",
+"forks":"10"
 },
 {
 "name":"IPL-2020-Prediction",
@@ -18,7 +18,7 @@
 "color":"#e34c26",
 "lang":"HTML",
 "date":"2020-09-28T13:58:21Z",
-"stars":"5",
+"stars":"6",
 "forks":"1"
 },
 {
@@ -29,7 +29,7 @@
 "color":"#e34c26",
 "lang":"HTML",
 "date":"2020-10-09T08:16:31Z",
-"stars":"7",
+"stars":"9",
 "forks":"4"
 },
 {
@@ -40,7 +40,7 @@
 "color":"#e34c26",
 "lang":"HTML",
 "date":"2020-10-06T10:02:13Z",
-"stars":"3",
+"stars":"4",
 "forks":"1"
 },
 {
@@ -51,50 +51,50 @@
 "color":"#b07219",
 "lang":"Java",
 "date":"2019-03-20T14:24:46Z",
-"stars":"7",
+"stars":"8",
 "forks":"1"
 },
 {
 "name":"cloud-storage-system",
 "url":"https://github.com/PtPrashantTripathi/cloud-storage-system",
 "description":"An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-"banner":"https://opengraph.githubassets.com/545fcccb946269e9d8952df5f4a93bc89a4b16ed28db8fe281f6bc6618b656e8/PtPrashantTripathi/cloud-storage-system",
+"banner":"https://opengraph.githubassets.com/36814a493733712358a875162bbe496c5ad0d9c260867ad9bc0e7d7c9780dcd0/PtPrashantTripathi/cloud-storage-system",
 "color":"#b07219",
 "lang":"Java",
 "date":"2019-04-08T19:14:55Z",
-"stars":"6",
+"stars":"7",
 "forks":"0"
 },
 {
 "name":"Adhyatma",
 "url":"https://github.com/PtPrashantTripathi/Adhyatma",
 "description":"An Emotional State vedic scripture Quotes Serach Engain",
-"banner":"https://opengraph.githubassets.com/108c81ed22b11ec22d736e7817a87c5aa83bdbed910c72345bf099511b051ba4/PtPrashantTripathi/Adhyatma",
+"banner":"https://opengraph.githubassets.com/6b9de5cee0c3e552bd7585cad3f83fdc4d3c3a0c1f45e8f4aee1bff37c7ae1b7/PtPrashantTripathi/Adhyatma",
 "color":"#4F5D95",
 "lang":"PHP",
 "date":"2019-03-12T18:04:10Z",
-"stars":"6",
+"stars":"8",
 "forks":"0"
 },
 {
 "name":"innovationhub",
 "url":"https://github.com/PtPrashantTripathi/innovationhub",
 "description":"A social Networking Site for student to show there project works and skills",
-"banner":"https://opengraph.githubassets.com/d307cd445054c9e149a4df2eebabceeaeb258f5e13939596a209b83d60e8a2f0/PtPrashantTripathi/innovationhub",
+"banner":"https://opengraph.githubassets.com/cf8f346bb83cae613da8a5e4bbb0c601d1b38687341741a52262164d7f609e51/PtPrashantTripathi/innovationhub",
 "color":"#4F5D95",
 "lang":"PHP",
 "date":"2019-02-23T17:05:29Z",
-"stars":"6",
+"stars":"7",
 "forks":"0"
 },
 {
 "name":"developer-portfolio",
 "url":"https://github.com/PtPrashantTripathi/developer-portfolio",
 "description":"This is my personal portfoio website for my details, work and blog. ",
-"banner":"https://opengraph.githubassets.com/d3c13b1011a42e24e770fb90145c6b7f0051b4762390c50f1d7d691972c5940e/PtPrashantTripathi/developer-portfolio",
+"banner":"https://opengraph.githubassets.com/7549a671634df2d388e706fc3efa2f876642510a18f50c4e95f1e9efd23527d9/PtPrashantTripathi/developer-portfolio",
 "color":"#4F5D95",
 "lang":"PHP",
 "date":"2019-02-27T16:15:46Z",
-"stars":"4",
+"stars":"5",
 "forks":"1"
 } ]
