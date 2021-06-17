@@ -7,7 +7,7 @@
 "color":"#f1e05a",
 "lang":"JavaScript",
 "date":"2020-11-19T09:58:47Z",
-"stars":"50",
+"stars":"54",
 "forks":"10"
 },
 {
@@ -30,7 +30,7 @@
 "lang":"HTML",
 "date":"2020-10-09T08:16:31Z",
 "stars":"9",
-"forks":"4"
+"forks":"5"
 },
 {
 "name":"movieinfo",
@@ -54,17 +54,7 @@
 "stars":"8",
 "forks":"1"
 },
-{
-"name":"cloud-storage-system",
-"url":"https://github.com/PtPrashantTripathi/cloud-storage-system",
-"description":"An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-"banner":"https://opengraph.githubassets.com/36814a493733712358a875162bbe496c5ad0d9c260867ad9bc0e7d7c9780dcd0/PtPrashantTripathi/cloud-storage-system",
-"color":"#b07219",
-"lang":"Java",
-"date":"2019-04-08T19:14:55Z",
-"stars":"7",
-"forks":"0"
-},
+,
 {
 "name":"Adhyatma",
 "url":"https://github.com/PtPrashantTripathi/Adhyatma",
@@ -91,7 +81,7 @@
 "name":"developer-portfolio",
 "url":"https://github.com/PtPrashantTripathi/developer-portfolio",
 "description":"This is my personal portfoio website for my details, work and blog. ",
-"banner":"https://opengraph.githubassets.com/7549a671634df2d388e706fc3efa2f876642510a18f50c4e95f1e9efd23527d9/PtPrashantTripathi/developer-portfolio",
+"banner":"https://opengraph.githubassets.com/38d4757abe0083221bde03986c5b09f9976c95e07a0ecb9363251fefb81c7b8c/PtPrashantTripathi/developer-portfolio",
 "color":"#4F5D95",
 "lang":"PHP",
 "date":"2019-02-27T16:15:46Z",
