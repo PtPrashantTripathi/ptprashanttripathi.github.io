@@ -4,8 +4,8 @@ name: PanditBOT
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push request events but only for the main branch
-  # push:
-  #   branches: [ main ]
+  #push:
+  #  branches: [ main ]
   schedule:
     # every 2 hours from 6am IST to 6pm IST  
     - cron:  '0 0 1 * *'
@@ -31,13 +31,10 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
     - name: Creating new JSON # run the main.py to get the latest data
       run: python main.py
-    - name: Setup Git
+    - name: Setup Git and Push to the repo
       run: |
-          git config user.name ptprashanttripathi
+          git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
-    - name: Commit the changes
-      run: |
           git add ./json/repos.json
           git commit -m "[PanditBot] Updating Repos Data"
-    - name: Push to repository
-      run: git push --quiet
+          git push --quiet
