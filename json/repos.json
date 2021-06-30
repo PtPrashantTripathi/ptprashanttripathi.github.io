@@ -51,10 +51,20 @@
 "color":"#b07219",
 "lang":"Java",
 "date":"2019-03-20T14:24:46Z",
-"stars":"8",
+"stars":"9",
 "forks":"1"
 },
-,
+{
+"name":"cloud-storage-system",
+"url":"https://github.com/PtPrashantTripathi/cloud-storage-system",
+"description":"An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
+"banner":"https://opengraph.githubassets.com/36814a493733712358a875162bbe496c5ad0d9c260867ad9bc0e7d7c9780dcd0/PtPrashantTripathi/cloud-storage-system",
+"color":"#b07219",
+"lang":"Java",
+"date":"2019-04-08T19:14:55Z",
+"stars":"7",
+"forks":"0"
+},
 {
 "name":"Adhyatma",
 "url":"https://github.com/PtPrashantTripathi/Adhyatma",
@@ -64,7 +74,7 @@
 "lang":"PHP",
 "date":"2019-03-12T18:04:10Z",
 "stars":"8",
-"forks":"0"
+"forks":"1"
 },
 {
 "name":"innovationhub",
