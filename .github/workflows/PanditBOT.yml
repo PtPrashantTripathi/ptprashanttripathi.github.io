@@ -31,8 +31,13 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
     - name: Creating new JSON # run the main.py to get the latest data
       run: python main.py
-    - name: Commit & Push changes
-      uses: actions-js/push@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-
+    - name: Setup Git
+      run: |
+          git config user.name ptprashanttripathi
+          git config user.email ptprashanttripathi@outlook.com
+    - name: Commit the changes
+      run: |
+          git add ./json/repos.json
+          git commit -m "[PanditBot] Updating Repos Data"
+    - name: Push to repository
+      run: git push --quiet
