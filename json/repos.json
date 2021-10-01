@@ -7,7 +7,7 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 60,
+        "stars": 61,
         "forks": 10
     },
     {
@@ -29,7 +29,7 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 15,
+        "stars": 17,
         "forks": 7
     },
     {
@@ -51,8 +51,8 @@
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-03-20T14:24:46Z",
-        "stars": 9,
-        "forks": 1
+        "stars": 10,
+        "forks": 2
     },
     {
         "name": "cloud-storage-system",
