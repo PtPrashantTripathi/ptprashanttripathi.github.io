@@ -4,11 +4,11 @@
         "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
         "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
         "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
-        "color": "#f1e05a",
-        "lang": "JavaScript",
+        "color": "",
+        "lang": null,
         "date": "2020-11-19T09:58:47Z",
-        "stars": 62,
-        "forks": 10
+        "stars": 63,
+        "forks": 9
     },
     {
         "name": "IPL-2020-Prediction",
