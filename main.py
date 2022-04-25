@@ -23,6 +23,7 @@ colors = getjson('https://raw.githubusercontent.com/ozh/github-colors/master/col
 
 # all the repos list which i want to show on website
 repos_list= [
+    "vedic-lang/vedic",
     "vedicscriptures/bhagavad-gita-api",
     "PtPrashantTripathi/IPL-2020-Prediction",
     "PtPrashantTripathi/linkpe",
@@ -31,7 +32,7 @@ repos_list= [
     "PtPrashantTripathi/Cloud-Storage-System",
     "PtPrashantTripathi/Adhyatma",
     "PtPrashantTripathi/InnovationHub",
-    "PtPrashantTripathi/developer-portfolio"]
+    "PtPrashantTripathi/php-social-networking-site"]
 
 # execuation timer
 start_time = time.time()
