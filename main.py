@@ -31,7 +31,6 @@ repos_list= [
     "PtPrashantTripathi/Shree-Ganesh",
     "PtPrashantTripathi/Cloud-Storage-System",
     "PtPrashantTripathi/Adhyatma",
-    "PtPrashantTripathi/InnovationHub",
     "PtPrashantTripathi/php-social-networking-site"]
 
 # execuation timer
