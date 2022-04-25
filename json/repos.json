@@ -1,5 +1,16 @@
 [
     {
+        "name": "vedic",
+        "url": "https://github.com/vedic-lang/vedic",
+        "description": "vedicScript is World first Programming launguage in Sanskrit",
+        "banner": "https://opengraph.githubassets.com/d18d52eaa3c714fd5efe950892793662b70b8bd35dfb3665615183aeeae02034/vedic-lang/vedic",
+        "color": "#f1e05a",
+        "lang": "JavaScript",
+        "date": "2022-04-11T12:06:09Z",
+        "stars": 1,
+        "forks": 0
+    },
+    {
         "name": "bhagavad-gita-api",
         "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
         "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
@@ -7,7 +18,7 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 66,
+        "stars": 69,
         "forks": 10
     },
     {
@@ -29,8 +40,8 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 22,
-        "forks": 7
+        "stars": 23,
+        "forks": 8
     },
     {
         "name": "movieinfo",
@@ -63,7 +74,7 @@
         "lang": "Java",
         "date": "2019-04-08T19:14:55Z",
         "stars": 7,
-        "forks": 0
+        "forks": 1
     },
     {
         "name": "Adhyatma",
@@ -88,14 +99,14 @@
         "forks": 0
     },
     {
-        "name": "developer-portfolio",
-        "url": "https://github.com/PtPrashantTripathi/developer-portfolio",
-        "description": "This is my personal portfoio website for my details, work and blog. ",
-        "banner": "https://opengraph.githubassets.com/bf1f99837f4740cfe62b320935166e559ac2d80613b0ebdd9fd61bfdaf5eca2c/PtPrashantTripathi/developer-portfolio",
+        "name": "php-social-networking-site",
+        "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
+        "description": "A social Networking Site for student to show there project works and skills",
+        "banner": "https://opengraph.githubassets.com/8f3a2ca49d0df272bc1b45092fc3566b9c8080a32a4e2069bf1285c828b79a4f/PtPrashantTripathi/php-social-networking-site",
         "color": "#4F5D95",
         "lang": "PHP",
-        "date": "2019-02-27T16:15:46Z",
-        "stars": 5,
-        "forks": 1
+        "date": "2019-02-23T17:05:29Z",
+        "stars": 7,
+        "forks": 0
     }
 ]
