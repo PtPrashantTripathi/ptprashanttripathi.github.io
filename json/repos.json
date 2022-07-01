@@ -3,12 +3,12 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "Vedic is World first working Programming launguage in Sanskrit",
-        "banner": "https://opengraph.githubassets.com/a38fd0d459ed6b74f74836afb1839b4a120ea9c00dd6ac0f4f542e5ac84013da/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/34ca357f2132dd2ec98e8abb56624eaaf8c90f8087ec105efd6ee1e0001663e9/vedic-lang/vedic",
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 38,
-        "forks": 1
+        "stars": 40,
+        "forks": 2
     },
     {
         "name": "bhagavad-gita-api",
@@ -40,8 +40,8 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 23,
-        "forks": 8
+        "stars": 25,
+        "forks": 9
     },
     {
         "name": "movieinfo",
@@ -62,7 +62,7 @@
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-03-20T14:24:46Z",
-        "stars": 11,
+        "stars": 12,
         "forks": 2
     },
     {
@@ -91,7 +91,7 @@
         "name": "php-social-networking-site",
         "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
         "description": "A social Networking Site for student to show there project works and skills",
-        "banner": "https://opengraph.githubassets.com/8f3a2ca49d0df272bc1b45092fc3566b9c8080a32a4e2069bf1285c828b79a4f/PtPrashantTripathi/php-social-networking-site",
+        "banner": "https://opengraph.githubassets.com/b400a3e45b088510d2b2d6ae7899689882f12c8430468d636c936e2b4297966a/PtPrashantTripathi/php-social-networking-site",
         "color": "#4F5D95",
         "lang": "PHP",
         "date": "2019-02-23T17:05:29Z",
