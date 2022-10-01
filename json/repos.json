@@ -3,12 +3,12 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "Vedic is World first working Programming launguage in Sanskrit",
-        "banner": "https://opengraph.githubassets.com/7abe9abff3a621ee162a649f065d2848e5dba791da3d765e7bb63aba077ac086/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/9694c8f83a5a552b2be5ec9c058050df44d609efad3c4c73c8298369758b120c/vedic-lang/vedic",
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 49,
-        "forks": 4
+        "stars": 52,
+        "forks": 5
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,7 +19,7 @@
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
         "stars": 73,
-        "forks": 11
+        "forks": 12
     },
     {
         "name": "IPL-2020-Prediction",
@@ -40,8 +40,8 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 27,
-        "forks": 11
+        "stars": 29,
+        "forks": 12
     },
     {
         "name": "movieinfo",
@@ -69,7 +69,7 @@
         "name": "cloud-storage-system",
         "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
         "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-        "banner": "https://opengraph.githubassets.com/41f8b5106bff99c871f9bc188e73c55690773d01909c4ae3462536e201ae1e39/PtPrashantTripathi/cloud-storage-system",
+        "banner": "https://opengraph.githubassets.com/a44b43e2059b6dabe6d4d385fcbd1bb40848d1220c5a9b64b5cf54ffd9ee2b5a/PtPrashantTripathi/cloud-storage-system",
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-04-08T19:14:55Z",
