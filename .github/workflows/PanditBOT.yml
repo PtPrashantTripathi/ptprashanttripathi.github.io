@@ -19,11 +19,12 @@ jobs:
           python-version: 3.9.5
       - name: Updating JSON
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
-          python main.py
+          cp archive.tar.gz ../
+          cd ..
+          tar -xvf archive.tar.gz
+          cd pt*
           git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
-          git add ./json/repos.json
+          git add .
           git commit -m "🤖[PanditBot] Updating Repos Data"
           git push --quiet
