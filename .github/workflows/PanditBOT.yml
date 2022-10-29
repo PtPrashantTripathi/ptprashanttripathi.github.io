@@ -30,8 +30,10 @@ jobs:
           cd ..
           tar -xvf archive.tar.gz
           cd pt*
+          mv .github/workflows/PanditBOT.yml .github/workflows/PanditBOT.yml.temp
           git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
+          git restore '.github/workflows/PanditBOT.yml'
           git add .
           git commit -m "🤖[PanditBot] Updating Repos Data"
           git push --quiet
