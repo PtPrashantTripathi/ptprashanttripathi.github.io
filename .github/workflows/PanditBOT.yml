@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@master
         with:
           fetch-depth: 0
-      - name: 'Brotli compress the html, css and js files in repository'
+      - name: Compression
         id: brotli
         uses: charlesworth/compress-action@1.0.0
       - name: Setup Python
@@ -18,13 +18,12 @@ jobs:
         with:
           python-version: 3.9.5
       - name: Updating JSON
-        run: >
+        run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt;
-          fi    
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
           python main.py
           git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
           git add ./json/repos.json
-          git commit -m "[PanditBot] Updating Repos Data"
+          git commit -m "🤖[PanditBot] Updating Repos Data"
           git push --quiet
