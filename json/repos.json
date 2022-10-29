@@ -3,12 +3,12 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "Vedic is World first working Programming launguage in Sanskrit",
-        "banner": "https://opengraph.githubassets.com/9694c8f83a5a552b2be5ec9c058050df44d609efad3c4c73c8298369758b120c/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/96ec25c52da954fdf340761ec0f169d975324deb1712cf7c3235280bdb3434d5/vedic-lang/vedic",
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 52,
-        "forks": 5
+        "stars": 64,
+        "forks": 9
     },
     {
         "name": "bhagavad-gita-api",
@@ -18,7 +18,7 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 73,
+        "stars": 77,
         "forks": 12
     },
     {
@@ -29,7 +29,7 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-09-28T13:58:21Z",
-        "stars": 6,
+        "stars": 7,
         "forks": 3
     },
     {
@@ -40,8 +40,8 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 29,
-        "forks": 12
+        "stars": 31,
+        "forks": 15
     },
     {
         "name": "movieinfo",
@@ -51,7 +51,7 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-06T10:02:13Z",
-        "stars": 6,
+        "stars": 7,
         "forks": 2
     },
     {
@@ -62,40 +62,40 @@
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-03-20T14:24:46Z",
-        "stars": 13,
+        "stars": 14,
         "forks": 2
     },
     {
         "name": "cloud-storage-system",
         "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
         "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-        "banner": "https://opengraph.githubassets.com/a44b43e2059b6dabe6d4d385fcbd1bb40848d1220c5a9b64b5cf54ffd9ee2b5a/PtPrashantTripathi/cloud-storage-system",
+        "banner": "https://opengraph.githubassets.com/003b70e7719a56fc2ea20cff90bc658b1d9bf1c18f5a3d790f5310c20d0c240f/PtPrashantTripathi/cloud-storage-system",
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-04-08T19:14:55Z",
-        "stars": 8,
+        "stars": 9,
         "forks": 1
     },
     {
         "name": "Adhyatma",
         "url": "https://github.com/PtPrashantTripathi/Adhyatma",
         "description": "An Emotional State vedic scripture Quotes Serach Engain",
-        "banner": "https://opengraph.githubassets.com/077996def3dc70a9666a95d98448bed4b4c0f61c07e56b6d9bc0cdb6e487e156/PtPrashantTripathi/Adhyatma",
+        "banner": "https://opengraph.githubassets.com/5c0a216b2e4f94408194f88cc2f121fcc2d8c727ce1a84d8f1b635924aadbc71/PtPrashantTripathi/Adhyatma",
         "color": "#4F5D95",
         "lang": "PHP",
         "date": "2019-03-12T18:04:10Z",
-        "stars": 8,
+        "stars": 9,
         "forks": 1
     },
     {
         "name": "php-social-networking-site",
         "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
         "description": "A social Networking Site for student to show there project works and skills",
-        "banner": "https://opengraph.githubassets.com/b400a3e45b088510d2b2d6ae7899689882f12c8430468d636c936e2b4297966a/PtPrashantTripathi/php-social-networking-site",
+        "banner": "https://opengraph.githubassets.com/8ca7093e812893d2dbcbdb914a2f3488870418c893e69f33333cc53262633f19/PtPrashantTripathi/php-social-networking-site",
         "color": "#4F5D95",
         "lang": "PHP",
         "date": "2019-02-23T17:05:29Z",
-        "stars": 7,
+        "stars": 8,
         "forks": 0
     }
 ]
