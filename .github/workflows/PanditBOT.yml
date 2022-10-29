@@ -1,36 +1,39 @@
-# This is a basic workflow to help you get started with Actions
-name: PanditBOT 
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push request events but only for the main branch
-  #push:
-  #  branches: [ main ]
+name: PanditBOT
+'on':
   schedule:
-    # every 2 hours from 6am IST to 6pm IST  
-    - cron:  '0 0 1 * *'
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    - cron: 0 0 1 * *
+  workflow_dispatch: null
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-      with:
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-    - name: Setup Python 
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.9.5 #install the python needed
-    - name: Updating JSON
-      run: |
+      - name: Checkout Repo
+        uses: actions/checkout@master
+      - name: 'Brotli compress the html, css and js files in repository'
+        id: brotli
+        uses: charlesworth/compress-action@1.0
+      - uses: actions/checkout@master
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9.5
+      - name: Updating JSON
+        run: >
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi    
+
+          if [ -f requirements.txt ]; then pip install -r requirements.txt;
+          fi    
+
           python main.py
+
           git config user.name PtPrashantTripathi
+
           git config user.email ptprashanttripathi@outlook.com
+
           git add ./json/repos.json
+
           git commit -m "[PanditBot] Updating Repos Data"
+
           git push --quiet
