@@ -24,6 +24,6 @@ jobs:
           python main.py
           git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
-          git add ./json/repos.json
+          git add .
           git commit -m "🤖[PanditBot] Updating Repos Data"
           git push --quiet
