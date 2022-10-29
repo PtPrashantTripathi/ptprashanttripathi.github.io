@@ -7,14 +7,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
-      - name: 'Brotli compress the html, css and js files in repository'
-        id: brotli
-        uses: charlesworth/compress-action@1.0.0
       - uses: actions/checkout@master
         with:
           fetch-depth: 0
+      - name: 'Brotli compress the html, css and js files in repository'
+        id: brotli
+        uses: charlesworth/compress-action@1.0.0
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -22,18 +20,11 @@ jobs:
       - name: Updating JSON
         run: >
           python -m pip install --upgrade pip
-
           if [ -f requirements.txt ]; then pip install -r requirements.txt;
           fi    
-
           python main.py
-
           git config user.name PtPrashantTripathi
-
           git config user.email ptprashanttripathi@outlook.com
-
           git add ./json/repos.json
-
           git commit -m "[PanditBot] Updating Repos Data"
-
           git push --quiet
