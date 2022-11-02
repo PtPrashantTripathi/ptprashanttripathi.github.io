@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # datetime object containing current date and time
-now = datetime.now()
+now = str(datetime.now())
  
 print("now =", now)
 
