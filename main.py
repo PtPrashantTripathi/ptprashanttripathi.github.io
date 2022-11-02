@@ -2,6 +2,12 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import time
+from datetime import datetime
+
+# datetime object containing current date and time
+now = datetime.now()
+ 
+print("now =", now)
 
 # Parsing data from api
 def getjson(url):
@@ -52,7 +58,8 @@ for repo in repos_list:
         "lang":rdata["language"],
         "date":rdata["created_at"],
         "stars":rdata["stargazers_count"],
-        "forks":rdata["forks"]
+        "forks":rdata["forks"],
+        "generatedOn":now
         }
     repos_data.append(data)
     print(f"{repo} done\t--- {time.time() - start_time} seconds ---")
