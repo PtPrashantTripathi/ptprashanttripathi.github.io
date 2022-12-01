@@ -22,8 +22,8 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Setup Python 
       uses: actions/setup-python@v4
-      with:
-        python-version: 3.10 #install the python needed
+      #with:
+        #python-version: 3.10 #install the python needed
     - name: Library installation
       run: |
           python -m pip install -U pip
