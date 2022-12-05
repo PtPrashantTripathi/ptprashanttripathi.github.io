@@ -1,5 +1,5 @@
 # This is a basic workflow to help you get started with Actions
-name: PanditBOT 
+name: PanditBOT
 
 # Controls when the workflow will run
 on:
@@ -7,8 +7,8 @@ on:
   #push:
   #  branches: [ main ]
   schedule:
-    # every 2 hours from 6am IST to 6pm IST  
-    - cron:  '0 0 1 * *'
+    # every 2 hours from 6am IST to 6pm IST
+    - cron: '0 0 1 * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -17,21 +17,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-      with:
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-    - name: Setup Python 
-      uses: actions/setup-python@v4
-      #with:
+      - uses: actions/checkout@master
+        with:
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        #with:
         #python-version: 3.10 #install the python needed
-    - name: Library installation
-      run: |
+      - name: Library installation
+        run: |
           python -m pip install -U pip
           pip install -r requirements.txt
-    - name: Updating JSON
-      run: python main.py
-    - name: Git push
-      run: |
+      - name: Updating JSON
+        run: python main.py
+      - name: Git push
+        run: |
           git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
           git add ./json/repos.json
