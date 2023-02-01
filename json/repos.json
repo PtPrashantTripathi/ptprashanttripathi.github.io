@@ -3,13 +3,13 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "Vedic is World first working Programming launguage in Sanskrit",
-        "banner": "https://opengraph.githubassets.com/67d5f3b161af396ee26bab6e139dfd72481b8108eb414956983714f360f426c2/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/3adbca0b78e0ebad8d606013dd8329b52e5aad8136371219b08717d245b4ef88/vedic-lang/vedic",
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 72,
-        "forks": 9,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "stars": 78,
+        "forks": 11,
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,9 +19,9 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 80,
-        "forks": 13,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "stars": 84,
+        "forks": 14,
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "IPL-2020-Prediction",
@@ -33,7 +33,7 @@
         "date": "2020-09-28T13:58:21Z",
         "stars": 7,
         "forks": 4,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "linkpe",
@@ -43,9 +43,9 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 35,
+        "stars": 38,
         "forks": 17,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "movieinfo",
@@ -56,8 +56,8 @@
         "lang": "JavaScript",
         "date": "2020-10-06T10:02:13Z",
         "stars": 9,
-        "forks": 3,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "forks": 4,
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "shreeganesh",
@@ -69,7 +69,7 @@
         "date": "2019-03-20T14:24:46Z",
         "stars": 14,
         "forks": 2,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "cloud-storage-system",
@@ -81,19 +81,19 @@
         "date": "2019-04-08T19:14:55Z",
         "stars": 9,
         "forks": 1,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "Adhyatma",
         "url": "https://github.com/PtPrashantTripathi/Adhyatma",
         "description": "An Emotional State vedic scripture Quotes Serach Engain",
-        "banner": "https://opengraph.githubassets.com/5c0a216b2e4f94408194f88cc2f121fcc2d8c727ce1a84d8f1b635924aadbc71/PtPrashantTripathi/Adhyatma",
+        "banner": "https://opengraph.githubassets.com/6923f5eb37a3ad3c10f04289b856d93cacfa0b2de7a8089128c27aaaf1b46d5a/PtPrashantTripathi/Adhyatma",
         "color": "#4F5D95",
         "lang": "PHP",
         "date": "2019-03-12T18:04:10Z",
         "stars": 9,
         "forks": 1,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "generatedOn": "2023-02-01 01:44:04.244149"
     },
     {
         "name": "php-social-networking-site",
@@ -105,6 +105,6 @@
         "date": "2019-02-23T17:05:29Z",
         "stars": 8,
         "forks": 0,
-        "generatedOn": "2023-01-01 03:55:19.648618"
+        "generatedOn": "2023-02-01 01:44:04.244149"
     }
 ]
