@@ -17,7 +17,7 @@
 	<a href="https://paypal.me/PtPrashantTripathi"><img height='23' src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="Donate"/></a>
 	<a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' /></a>
 	<a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" /></a>
-	<a href="https://ptprashanttripathi.github.io/linkpe?pa=pt1997@ybl&pn=Pt.+Prashant+Tripati" target="_blank"><img src="https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg" alt="Support Via UPI" height="23" style="border-radius:1px" /></a>
+	<a href="upi://pay?pa=pt1997@ybl&pn=Pt.+Prashant+Tripati" target="_blank"><img src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi.github.io/main/img/phonepe-logo-big.png" alt="Support Via UPI" height="23" style="border-radius:1px" /></a>
 </p>
 
 ## About
@@ -54,8 +54,8 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 <p align="left">
 <a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
 </a>
-<a href="https://ptprashanttripathi.github.io/linkpe/?pa=pt1998%40ybl&pn=Pt.+Prashant+Tripathi">
-<img src="https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg" alt="linkpe"/>
+<a href="upi://pay/?pa=pt1998%40ybl&pn=Pt.+Prashant+Tripathi">
+<img src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi.github.io/main/img/phonepe-logo-big.png" alt="linkpe"/>
 </a>
 </p>
 <p align="left">
