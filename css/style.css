@@ -148,8 +148,8 @@ a {
 }
 
 a:hover {
-    color: #848484;
-    text-decoration: none
+    color: #12d640b9;
+    text-shadow: 0 0 20px #00ff3c, 0 0 40px #00ff3c, 0 0 60px #00ff3c, 0 0 80px #00ff3c, 0 0 100px #00ff3c;
 }
 
 a:focus {
