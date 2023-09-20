@@ -70,7 +70,7 @@ for repo in repos_list:
 json_data = json.dumps(repos_data, indent=4)
 
 # Writing to repos.json
-with open("json/repos.json", "w") as outfile:
+with open("repos.json", "w") as outfile:
     outfile.write(json_data)
 
 # Total execuation time

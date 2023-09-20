@@ -1,4 +1,4 @@
-fetch("json/repos.json")
+fetch("repos.json")
   .then((res) => res.json())
   .then((data) => {
     let output = "";
