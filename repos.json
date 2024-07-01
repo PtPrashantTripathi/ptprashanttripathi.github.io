@@ -3,13 +3,13 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "vedic is the world's first working Sanskrit programming language",
-        "banner": "https://opengraph.githubassets.com/111bc667f0f80f733f7d7648f1f057b16c454b1f29bf86c9a6e19a07f4675fe3/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/d4ea3fdb1d70426e86833be2f5fee36195a46df6041965bdfcc4a5f9f77dd6d4/vedic-lang/vedic",
         "color": "#dea584",
         "lang": "Rust",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 199,
-        "forks": 27,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "stars": 205,
+        "forks": 25,
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,9 +19,9 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 146,
-        "forks": 25,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "stars": 154,
+        "forks": 26,
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "IPL-2020-Prediction",
@@ -33,7 +33,7 @@
         "date": "2020-09-28T13:58:21Z",
         "stars": 6,
         "forks": 7,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "linkpe",
@@ -43,9 +43,9 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 72,
-        "forks": 51,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "stars": 75,
+        "forks": 52,
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "movieinfo",
@@ -57,7 +57,7 @@
         "date": "2020-10-06T10:02:13Z",
         "stars": 9,
         "forks": 5,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "shreeganesh",
@@ -69,7 +69,7 @@
         "date": "2019-03-20T14:24:46Z",
         "stars": 14,
         "forks": 4,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "cloud-storage-system",
@@ -81,7 +81,7 @@
         "date": "2019-04-08T19:14:55Z",
         "stars": 9,
         "forks": 4,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "Adhyatma",
@@ -93,7 +93,7 @@
         "date": "2019-03-12T18:04:10Z",
         "stars": 8,
         "forks": 1,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "generatedOn": "2024-07-01 01:24:44.647577"
     },
     {
         "name": "php-social-networking-site",
@@ -105,6 +105,6 @@
         "date": "2019-02-23T17:05:29Z",
         "stars": 7,
         "forks": 0,
-        "generatedOn": "2024-06-01 01:18:55.981499"
+        "generatedOn": "2024-07-01 01:24:44.647577"
     }
 ]
