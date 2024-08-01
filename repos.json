@@ -3,13 +3,13 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "vedic is the world's first working Sanskrit programming language",
-        "banner": "https://opengraph.githubassets.com/d4ea3fdb1d70426e86833be2f5fee36195a46df6041965bdfcc4a5f9f77dd6d4/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/009d84a15b64a3dcc7daa776494aea448b8472349b7de71a58992ffd42f70e24/vedic-lang/vedic",
         "color": "#dea584",
         "lang": "Rust",
         "date": "2022-04-11T12:06:09Z",
         "stars": 205,
         "forks": 25,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,9 +19,9 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 154,
+        "stars": 163,
         "forks": 26,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "IPL-2020-Prediction",
@@ -32,8 +32,8 @@
         "lang": "HTML",
         "date": "2020-09-28T13:58:21Z",
         "stars": 6,
-        "forks": 7,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "forks": 8,
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "linkpe",
@@ -43,9 +43,9 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 75,
-        "forks": 52,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "stars": 74,
+        "forks": 55,
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "movieinfo",
@@ -57,7 +57,7 @@
         "date": "2020-10-06T10:02:13Z",
         "stars": 9,
         "forks": 5,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "shreeganesh",
@@ -67,21 +67,21 @@
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-03-20T14:24:46Z",
-        "stars": 14,
+        "stars": 15,
         "forks": 4,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "cloud-storage-system",
         "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
         "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-        "banner": "https://opengraph.githubassets.com/2f30c8870e2a22d92bc4d0f3b5805254a2f8fa2f6d2e61e2390cc6b42aa014a0/PtPrashantTripathi/cloud-storage-system",
+        "banner": "https://opengraph.githubassets.com/04f5f7c74d8fbeb94e7e2fd559919cefe72345a017ccb812c2ac0afaff00a094/PtPrashantTripathi/cloud-storage-system",
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-04-08T19:14:55Z",
-        "stars": 9,
+        "stars": 11,
         "forks": 4,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "Adhyatma",
@@ -93,7 +93,7 @@
         "date": "2019-03-12T18:04:10Z",
         "stars": 8,
         "forks": 1,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     },
     {
         "name": "php-social-networking-site",
@@ -105,6 +105,6 @@
         "date": "2019-02-23T17:05:29Z",
         "stars": 7,
         "forks": 0,
-        "generatedOn": "2024-07-01 01:24:44.647577"
+        "generatedOn": "2024-08-01 01:25:49.809087"
     }
 ]
