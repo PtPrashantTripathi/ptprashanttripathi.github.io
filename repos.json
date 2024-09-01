@@ -3,13 +3,13 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "vedic is the world's first working Sanskrit programming language",
-        "banner": "https://opengraph.githubassets.com/009d84a15b64a3dcc7daa776494aea448b8472349b7de71a58992ffd42f70e24/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/7ce58f0729b454eb437d90408bb3c591d745c31903a6e14b13b94c49a3900f99/vedic-lang/vedic",
         "color": "#dea584",
         "lang": "Rust",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 205,
+        "stars": 209,
         "forks": 25,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,9 +19,21 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 163,
+        "stars": 166,
         "forks": 26,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
+    },
+    {
+        "name": "PortfolioTracker",
+        "url": "https://github.com/PtPrashantTripathi/PortfolioTracker",
+        "description": "This GitHub repository hosts a comprehensive analysis notebook for Upstox, a popular online stock trading platform, with a powerful Medallion architecture. The analysis is designed to provide insights into your trading strategies, portfolio performance, and market trends.",
+        "banner": "https://opengraph.githubassets.com/c4de74ddc3fa27b84c8a5662162a6eed7ef5aef23054ee73141d437aebe2b6ef/PtPrashantTripathi/PortfolioTracker",
+        "color": "#DA5B0B",
+        "lang": "Jupyter Notebook",
+        "date": "2023-10-30T19:20:07Z",
+        "stars": 0,
+        "forks": 0,
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "IPL-2020-Prediction",
@@ -33,7 +45,7 @@
         "date": "2020-09-28T13:58:21Z",
         "stars": 6,
         "forks": 8,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "linkpe",
@@ -43,9 +55,9 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 74,
-        "forks": 55,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "stars": 76,
+        "forks": 58,
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "movieinfo",
@@ -57,7 +69,7 @@
         "date": "2020-10-06T10:02:13Z",
         "stars": 9,
         "forks": 5,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "shreeganesh",
@@ -69,7 +81,7 @@
         "date": "2019-03-20T14:24:46Z",
         "stars": 15,
         "forks": 4,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "cloud-storage-system",
@@ -81,7 +93,7 @@
         "date": "2019-04-08T19:14:55Z",
         "stars": 11,
         "forks": 4,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "Adhyatma",
@@ -93,7 +105,7 @@
         "date": "2019-03-12T18:04:10Z",
         "stars": 8,
         "forks": 1,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     },
     {
         "name": "php-social-networking-site",
@@ -105,6 +117,6 @@
         "date": "2019-02-23T17:05:29Z",
         "stars": 7,
         "forks": 0,
-        "generatedOn": "2024-08-01 01:25:49.809087"
+        "generatedOn": "2024-09-01 01:43:11.557751"
     }
 ]
