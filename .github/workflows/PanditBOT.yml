@@ -29,11 +29,13 @@ jobs:
           python -m pip install -U pip
           pip install -r requirements.txt
       - name: Updating JSON
-        run: python repo.py
+        run: |
+          python repo.py
+          python sitemap.py
       - name: Git push
         run: |
           git config user.name PtPrashantTripathi
           git config user.email ptprashanttripathi@outlook.com
-          git add repos.json
+          git add .
           git commit -m "[PanditBot] Updating Repos Data $(date +%Y-%m-%d_%H-%M-%S)"
           git push --quiet
