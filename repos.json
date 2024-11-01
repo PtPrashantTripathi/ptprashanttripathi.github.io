@@ -3,13 +3,13 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "vedic is the world's first working Sanskrit programming language",
-        "banner": "https://opengraph.githubassets.com/ee6fa2b13d216e4c03ecbb01393f981b692c677d198ef5915473e81fbcbf22c1/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/1e454d2eebf86cb4da1b6cc064cf67cc540aa851352d7746bfaea9ab80076842/vedic-lang/vedic",
         "color": "#dea584",
         "lang": "Rust",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 217,
+        "stars": 219,
         "forks": 26,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,9 +19,9 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 167,
+        "stars": 168,
         "forks": 27,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "PortfolioTracker",
@@ -33,7 +33,7 @@
         "date": "2023-10-30T19:20:07Z",
         "stars": 1,
         "forks": 2,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "IPL-2020-Prediction",
@@ -45,7 +45,7 @@
         "date": "2020-09-28T13:58:21Z",
         "stars": 6,
         "forks": 8,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "linkpe",
@@ -55,9 +55,9 @@
         "color": "#e34c26",
         "lang": "HTML",
         "date": "2020-10-09T08:16:31Z",
-        "stars": 79,
-        "forks": 58,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "stars": 80,
+        "forks": 57,
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "movieinfo",
@@ -69,31 +69,31 @@
         "date": "2020-10-06T10:02:13Z",
         "stars": 9,
         "forks": 5,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "shreeganesh",
         "url": "https://github.com/PtPrashantTripathi/shreeganesh",
         "description": "This Astrology Android app provide solution of your life problem, based upon Krishna Jyotish Padathi.",
         "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
-        "color": "#b07219",
-        "lang": "Java",
+        "color": "#f1e05a",
+        "lang": "JavaScript",
         "date": "2019-03-20T14:24:46Z",
         "stars": 15,
         "forks": 4,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "cloud-storage-system",
         "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
         "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
-        "banner": "https://opengraph.githubassets.com/3f5cc35d4f5f48c633c9a1ee6448bbfeaf036b0c2db19ef0c0b813c2c2eed601/PtPrashantTripathi/cloud-storage-system",
+        "banner": "https://opengraph.githubassets.com/7fa5a480d8a9624302e542a7dde61e034b92afda3b670b45e2d03ad1b4d3b2a6/PtPrashantTripathi/cloud-storage-system",
         "color": "#b07219",
         "lang": "Java",
         "date": "2019-04-08T19:14:55Z",
-        "stars": 12,
-        "forks": 5,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "stars": 13,
+        "forks": 6,
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "Adhyatma",
@@ -105,18 +105,18 @@
         "date": "2019-03-12T18:04:10Z",
         "stars": 8,
         "forks": 1,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     },
     {
         "name": "php-social-networking-site",
         "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
         "description": "A social Networking Site for student to show there project works and skills",
-        "banner": "https://opengraph.githubassets.com/a335cde796caa2806e093167b7d0fc3bb73fb1cf53ff8380d112fc7712779bea/PtPrashantTripathi/php-social-networking-site",
+        "banner": "https://opengraph.githubassets.com/82cfebbd7a0892f4a5eb1f013eb57b8975da6acd7ccd5649b9fdeda4ddf7e305/PtPrashantTripathi/php-social-networking-site",
         "color": "#4F5D95",
         "lang": "PHP",
         "date": "2019-02-23T17:05:29Z",
-        "stars": 7,
+        "stars": 8,
         "forks": 0,
-        "generatedOn": "2024-10-01 01:44:35.398012"
+        "generatedOn": "2024-11-01 01:44:06.343395"
     }
 ]
