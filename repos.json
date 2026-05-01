@@ -3,13 +3,13 @@
         "name": "vedic",
         "url": "https://github.com/vedic-lang/vedic",
         "description": "vedic is the world's first working Sanskrit programming language",
-        "banner": "https://opengraph.githubassets.com/72f654c271826666b1c16933ecbb043d6b5f7e32731a123d1a8b4629bd600f9d/vedic-lang/vedic",
+        "banner": "https://opengraph.githubassets.com/b4f0f6c9657c03b38399226eb585019650f7de7aeb8462a7e92a6d3b2a319bac/vedic-lang/vedic",
         "color": "#dea584",
         "lang": "Rust",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 310,
-        "forks": 42,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "stars": 316,
+        "forks": 43,
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "bhagavad-gita-api",
@@ -19,9 +19,9 @@
         "color": "#f1e05a",
         "lang": "JavaScript",
         "date": "2020-11-19T09:58:47Z",
-        "stars": 200,
-        "forks": 31,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "stars": 201,
+        "forks": 33,
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "PortfolioTracker",
@@ -33,7 +33,7 @@
         "date": "2023-10-30T19:20:07Z",
         "stars": 2,
         "forks": 2,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "IPL-2020-Prediction",
@@ -45,7 +45,7 @@
         "date": "2020-09-28T13:58:21Z",
         "stars": 7,
         "forks": 7,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "linkpe",
@@ -57,7 +57,7 @@
         "date": "2020-10-09T08:16:31Z",
         "stars": 98,
         "forks": 64,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "movieinfo",
@@ -69,7 +69,7 @@
         "date": "2020-10-06T10:02:13Z",
         "stars": 9,
         "forks": 6,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "VedicJyotish",
@@ -81,7 +81,7 @@
         "date": "2019-03-20T14:24:46Z",
         "stars": 20,
         "forks": 5,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "cloud-storage-system",
@@ -93,7 +93,7 @@
         "date": "2019-04-08T19:14:55Z",
         "stars": 18,
         "forks": 10,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "Adhyatma",
@@ -105,7 +105,7 @@
         "date": "2019-03-12T18:04:10Z",
         "stars": 9,
         "forks": 1,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     },
     {
         "name": "php-social-networking-site",
@@ -117,6 +117,6 @@
         "date": "2019-02-23T17:05:29Z",
         "stars": 9,
         "forks": 0,
-        "generatedOn": "2026-04-01 03:16:01.387979"
+        "generatedOn": "2026-05-01 03:48:29.313564"
     }
 ]
