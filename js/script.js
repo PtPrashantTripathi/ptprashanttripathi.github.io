@@ -163,14 +163,14 @@ function renderRepos(repos) {
               </a>
             </div>
             <div class="mdl-card__actions mdl-card--border">
-              <span class="blog-post-date inline-block">${repoDate}</span>
-              <div class="mdl-layout-spacer"></div>
-              <div class="mdl-card__actions">
-                <img class="mr-5" src="img/star.svg" />
-                <span>${repo.stars}</span>
-                <img class="mr-5 ml-5" src="img/fork.svg" />
-                <span>${repo.forks}</span>
-              </div>
+                <div class="mdl-card__actions">
+                    <span class="blog-post-date inline-block">${repoDate}</span>
+                    <div class="mdl-layout-spacer"></div>
+                    <img class="mr-5" src="img/star.svg" />
+                    <span>${repo.stars}</span>
+                    <img class="mr-5 ml-5" src="img/fork.svg" />
+                    <span>${repo.forks}</span>
+                </div>
             </div>
           </div>
         </div>

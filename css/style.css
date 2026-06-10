@@ -330,6 +330,34 @@ p  { font-size: 15px; line-height: 1.7; }
 .certs-sec .cert-meta { font-size: 13px; color: var(--text-secondary); }
 
 /* ── Projects ── */
+
+/* Equal-height cards per row */
+#repo-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+#repo-card > div {
+  display: flex;
+  flex-direction: column;
+}
+#repo-card .repo-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+}
+#repo-card .mdl-card__supporting-text {
+  flex: 1;           /* grows to fill space, pushing actions to bottom */
+  display: flex;
+  flex-direction: column;
+}
+#repo-card .mdl-card__supporting-text p {
+  flex: 1;           /* description takes remaining height */
+}
+#repo-card .mdl-card__actions {
+  margin-top: auto;  /* pin action bar to bottom */
+}
+
 .blog-sec .mdl-card .mdl-card__title { overflow: hidden; }
 .blog-sec .mdl-card .mdl-card__title .blog-img {
   width: 100%; transform: scale(1.01); transition: 1s ease;

@@ -212,7 +212,7 @@
         {
             "name": "vedic",
             "url": "https://github.com/vedic-lang/vedic",
-            "description": "vedic is the world's first working Sanskrit programming language",
+            "description": "World's first working Sanskrit programming language — write code in Devanagari script.",
             "banner": "https://opengraph.githubassets.com/b3ba0663960979456bf07dc575ab0bd1f726ba3714cc831610e851d72b084ca1/vedic-lang/vedic",
             "color": "#dea584",
             "lang": "Rust",
@@ -224,7 +224,7 @@
         {
             "name": "bhagavad-gita-api",
             "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
-            "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
+            "description": "Open-source REST API serving all 18 chapters and 700 verses of the Bhagavad Gita.",
             "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
             "color": "#f1e05a",
             "lang": "JavaScript",
@@ -236,7 +236,7 @@
         {
             "name": "PortfolioTracker",
             "url": "https://github.com/PtPrashantTripathi/PortfolioTracker",
-            "description": "This GitHub repository hosts a comprehensive analysis notebook for Upstox, a popular online stock trading platform, with a powerful Medallion architecture. The analysis is designed to provide insights into your trading strategies, portfolio performance, and market trends.",
+            "description": "Upstox trading analysis notebook with Medallion architecture — insights into portfolio performance.",
             "banner": "https://repository-images.githubusercontent.com/712092492/7d148f25-5b8d-4c56-bf3d-b3e5f933d2cf",
             "color": "#3572A5",
             "lang": "Python",
@@ -248,7 +248,7 @@
         {
             "name": "AadhaarQRCodeReader",
             "url": "https://github.com/PtPrashantTripathi/AadhaarQRCodeReader",
-            "description": "🇮🇳 Offline Aadhaar Secure QR Code Reader — scan or upload any Aadhaar card QR to instantly decode identity details. Pure HTML/CSS/JS, no server, no data leaves your device.",
+            "description": "🇮🇳 Offline Aadhaar QR Reader — scan or upload any Aadhaar card, no server, no data leak.",
             "banner": "https://repository-images.githubusercontent.com/1263970137/45ddcf33-5cb9-4eb7-9c51-663038717e7c",
             "color": "#f1e05a",
             "lang": "JavaScript",
@@ -260,7 +260,7 @@
         {
             "name": "linkpe",
             "url": "https://github.com/PtPrashantTripathi/linkpe",
-            "description": "Linkpe is a Node.js based API🐳 to generate shareable UPI Payment links",
+            "description": "Node.js API to generate shareable UPI payment links for seamless peer-to-peer transfers.",
             "banner": "https://repository-images.githubusercontent.com/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb",
             "color": "#e34c26",
             "lang": "HTML",
@@ -272,7 +272,7 @@
         {
             "name": "movieinfo",
             "url": "https://github.com/PtPrashantTripathi/movieinfo",
-            "description": "Movie info app built with OMDb API that gets movie info from IMDb and Rotten Tomatoes.",
+            "description": "Movie info web app using OMDb API — fetch ratings and details from IMDb and Rotten Tomatoes.",
             "banner": "https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
             "color": "#e34c26",
             "lang": "HTML",
@@ -284,7 +284,7 @@
         {
             "name": "IPL-2020-Prediction",
             "url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
-            "description": "Predictive Analysis of an IPL Match using SVM Binary Classifier",
+            "description": "SVM Binary Classifier predicting IPL 2020 match outcomes using historical match-day data.",
             "banner": "https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
             "color": "#e34c26",
             "lang": "HTML",
@@ -296,7 +296,7 @@
         {
             "name": "VedicJyotish",
             "url": "https://github.com/PtPrashantTripathi/VedicJyotish",
-            "description": null,
+            "description": "Vedic Jyotish astrology app — planetary positions, birth charts, and Vedic predictions.",
             "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
             "color": "#3178c6",
             "lang": "TypeScript",
@@ -308,7 +308,7 @@
         {
             "name": "cloud-storage-system",
             "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
-            "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
+            "description": "Online cloud storage system — upload, modify, and manage your files in real-time on the cloud.",
             "banner": "https://repository-images.githubusercontent.com/180216704/94d7bb29-7573-4c15-a1e0-b3eae6d41933",
             "color": "#b07219",
             "lang": "Java",
@@ -320,7 +320,7 @@
         {
             "name": "Adhyatma",
             "url": "https://github.com/PtPrashantTripathi/Adhyatma",
-            "description": "An Emotional State vedic scripture Quotes Serach Engain",
+            "description": "Vedic scripture quote search engine — find relevant shlokas based on your emotional state.",
             "banner": "https://opengraph.githubassets.com/f5ccc54a4fb89c28a14462807a56a44453025de20b7fcc56f3db847c43ee1de7/PtPrashantTripathi/Adhyatma",
             "color": "#4F5D95",
             "lang": "PHP",
@@ -332,7 +332,7 @@
         {
             "name": "php-social-networking-site",
             "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
-            "description": "A social Networking Site for student to show there project works and skills",
+            "description": "PHP social networking platform for students to showcase their projects and skills portfolio.",
             "banner": "https://opengraph.githubassets.com/1abc858be9f8eca776d4c19c23b1336bcfac94281bda8dda0ccd8f943c98f489/PtPrashantTripathi/php-social-networking-site",
             "color": "#4F5D95",
             "lang": "PHP",
