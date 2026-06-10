@@ -30,8 +30,8 @@ jobs:
           pip install -r requirements.txt
       - name: Updating JSON
         run: |
-          python repo.py
-          python sitemap.py
+          python scripts/repo.py
+          python scripts/sitemap.py
       - name: Git push
         run: |
           git config user.name PtPrashantTripathi

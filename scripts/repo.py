@@ -37,14 +37,14 @@ repos_list = [
     "vedic-lang/vedic",
     "vedicscriptures/bhagavad-gita-api",
     "PtPrashantTripathi/PortfolioTracker",
-    "PtPrashantTripathi/IPL-2020-Prediction",
+    "PtPrashantTripathi/AadhaarQRCodeReader",
     "PtPrashantTripathi/linkpe",
     "PtPrashantTripathi/movieinfo",
+    "PtPrashantTripathi/IPL-2020-Prediction",
     "PtPrashantTripathi/Shree-Ganesh",
     "PtPrashantTripathi/Cloud-Storage-System",
     "PtPrashantTripathi/Adhyatma",
     "PtPrashantTripathi/php-social-networking-site",
-    "PtPrashantTripathi/AadhaarQRCodeReader",
 ]
 
 # execuation timer
@@ -75,9 +75,20 @@ for repo in repos_list:
 # Serializing json
 json_data = json.dumps(repos_data, indent=4)
 
-# Writing to repos.json
-with open("repos.json", "w") as outfile:
-    outfile.write(json_data)
+# Writing to data.json
+data = {}
+with open("data.json", "r") as outfile:
+    data = json.load(outfile)
+
+data["repos"] = repos_data
+
+with open("data.json", "w", encoding="utf-8") as outfile:
+    json.dump(
+        data,
+        outfile,
+        indent=4,
+        ensure_ascii=False
+    )
 
 # Total execuation time
 print(f"all done\t--- {time.time() - start_time} seconds ---")
