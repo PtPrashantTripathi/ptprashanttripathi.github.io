@@ -1,0 +1,396 @@
+{
+    "about": {
+        "name": "Pt. Prashant Tripathi",
+        "tagline": "Data Engineer at Fanatics • Otaku • Learner",
+        "avatar": "https://avatars2.githubusercontent.com/u/26687933?s=460&v=4",
+        "resume": "https://drive.google.com/file/d/1J79L3laKdUfjyP44nHjJ6E50oFebs5if/view?usp=drivesdk",
+        "details": [
+            {
+                "emoji": "👨‍💻",
+                "label": "Current Role",
+                "value": "Data Engineer at Fanatics, Hyderabad"
+            },
+            {
+                "emoji": "🎓",
+                "label": "Experience Level",
+                "value": "6+ years"
+            },
+            {
+                "emoji": "📍",
+                "label": "Location",
+                "value": "Hyderabad, Telangana, India"
+            },
+            {
+                "emoji": "🔭",
+                "label": "Interested in",
+                "value": "Technology, Astronomy, Space"
+            },
+            {
+                "emoji": "💻",
+                "label": "Currently watching",
+                "value": "One Piece 🚀"
+            },
+            {
+                "emoji": "⚡",
+                "label": "Fun fact",
+                "value": "Prefer Chai ☕ over coffee"
+            }
+        ],
+        "social": [
+            {
+                "id": "tt1",
+                "class": "facebook-link",
+                "icon": "zmdi-facebook",
+                "url": "https://facebook.com/ptprashant09",
+                "label": "facebook"
+            },
+            {
+                "id": "tt2",
+                "class": "twitter-link",
+                "icon": "zmdi-twitter",
+                "url": "https://twitter.com/PtPrashant09",
+                "label": "twitter"
+            },
+            {
+                "id": "tt3",
+                "class": "linkedin-link",
+                "icon": "zmdi-linkedin",
+                "url": "https://www.linkedin.com/in/ptprashanttripathi/",
+                "label": "linkedin"
+            },
+            {
+                "id": "tt5",
+                "class": "instagram-link",
+                "icon": "zmdi-instagram",
+                "url": "https://www.instagram.com/ptprashanttripathi/",
+                "label": "instagram"
+            },
+            {
+                "id": "tt4",
+                "class": "github-link",
+                "icon": "zmdi-github",
+                "url": "https://github.com/PtPrashantTripathi",
+                "label": "github"
+            }
+        ]
+    },
+    "whatIDo": [
+        {
+            "icon": "zmdi-cloud",
+            "iconColor": "font-blue",
+            "title": "Data Engineer",
+            "description": "I specialise in building robust data pipelines on <strong>Azure</strong> cloud. With 6+ years of experience in ETL/ELT, I design and optimise large-scale data workflows using PySpark, Azure Data Factory, Databricks, and Delta Lake. Passionate about turning raw data into reliable, actionable insights."
+        },
+        {
+            "icon": "zmdi-format-color-text",
+            "iconColor": "font-green",
+            "title": "Otaku",
+            "description": "An Otaku at heart — deeply passionate about anime, manga, and the rich storytelling traditions of Japanese pop culture. I enjoy fan communities, exploring new series, and finding the parallels between epic narratives and the craft of building software."
+        },
+        {
+            "icon": "zmdi-book",
+            "iconColor": "font-yellow",
+            "title": "Learner",
+            "description": "Continuously evolving — whether it's a new cloud service, a programming paradigm, or Vedic philosophy. I thrive in fast-paced environments and love tackling real-world problems with elegant, well-crafted solutions."
+        }
+    ],
+    "experience": [
+        {
+            "company": "Fanatics",
+            "role": "Data Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "period": "2025 – Present",
+            "current": true,
+            "description": "Building and maintaining large-scale retail data pipelines on Azure cloud. Working with PySpark, Azure Data Factory, and Databricks to enable data-driven decision-making across the organisation."
+        },
+        {
+            "company": "Fractal Analytics",
+            "role": "Data Engineer",
+            "location": "Gurugram, Haryana, India",
+            "period": "2023 – 2025",
+            "current": false,
+            "description": "Designed and delivered cloud-based data engineering solutions and ETL automation on Azure, serving enterprise analytics clients across multiple industry verticals."
+        },
+        {
+            "company": "Tata Consultancy Services (TCS)",
+            "role": "Software Engineer",
+            "location": "Pune, Maharashtra, India",
+            "period": "2021 – 2023",
+            "current": false,
+            "description": "Full-stack development and backend services — building web applications with Node.js, Python, and SQL across diverse industry domains."
+        }
+    ],
+    "skills": [
+        {
+            "group": "Cloud",
+            "chips": [
+                "☁️ Microsoft Azure",
+                "☁️ Google Cloud"
+            ]
+        },
+        {
+            "group": "Data Engineering",
+            "chips": [
+                "⚡ PySpark",
+                "🔄 ETL / ELT",
+                "🏭 Azure Data Factory",
+                "🧱 Databricks",
+                "🗄️ Delta Lake",
+                "📊 SQL"
+            ]
+        },
+        {
+            "group": "Languages",
+            "chips": [
+                "🐍 Python",
+                "🟨 JavaScript",
+                "🟢 Node.js",
+                "☕ Java",
+                "🐘 PHP",
+                "🦀 Rust"
+            ]
+        },
+        {
+            "group": "Tools & DevOps",
+            "chips": [
+                "🐧 Linux",
+                "🐙 Git",
+                "🐳 Docker",
+                "🌐 REST APIs"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Azure AZ-900",
+            "issuer": "Udemy",
+            "date": "July 2021"
+        },
+        {
+            "name": "Azure Data Engineer Technologies",
+            "issuer": "Udemy",
+            "date": "April 2021"
+        },
+        {
+            "name": "Complete Responsive Web Development",
+            "issuer": "Udemy",
+            "date": "March 2019"
+        },
+        {
+            "name": "Google Associate Cloud Engineer",
+            "issuer": "Udemy",
+            "date": "March 2019"
+        }
+    ],
+    "interests": [
+        {
+            "icon": "zmdi-tv",
+            "label": "Anime"
+        },
+        {
+            "icon": "zmdi-radio",
+            "label": "Music"
+        },
+        {
+            "icon": "zmdi-smartphone",
+            "label": "Gaming"
+        },
+        {
+            "icon": "zmdi-camera",
+            "label": "Photography"
+        },
+        {
+            "icon": "zmdi-library",
+            "label": "Reading"
+        },
+        {
+            "icon": "zmdi-airplane",
+            "label": "Travelling"
+        }
+    ],
+    "repos": [
+        {
+            "name": "vedic",
+            "url": "https://github.com/vedic-lang/vedic",
+            "description": "vedic is the world's first working Sanskrit programming language",
+            "banner": "https://opengraph.githubassets.com/b3ba0663960979456bf07dc575ab0bd1f726ba3714cc831610e851d72b084ca1/vedic-lang/vedic",
+            "color": "#dea584",
+            "lang": "Rust",
+            "date": "2022-04-11T12:06:09Z",
+            "stars": 320,
+            "forks": 43,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "bhagavad-gita-api",
+            "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
+            "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
+            "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
+            "color": "#f1e05a",
+            "lang": "JavaScript",
+            "date": "2020-11-19T09:58:47Z",
+            "stars": 202,
+            "forks": 33,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "PortfolioTracker",
+            "url": "https://github.com/PtPrashantTripathi/PortfolioTracker",
+            "description": "This GitHub repository hosts a comprehensive analysis notebook for Upstox, a popular online stock trading platform, with a powerful Medallion architecture. The analysis is designed to provide insights into your trading strategies, portfolio performance, and market trends.",
+            "banner": "https://repository-images.githubusercontent.com/712092492/7d148f25-5b8d-4c56-bf3d-b3e5f933d2cf",
+            "color": "#3572A5",
+            "lang": "Python",
+            "date": "2023-10-30T19:20:07Z",
+            "stars": 2,
+            "forks": 2,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "IPL-2020-Prediction",
+            "url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
+            "description": "Predictive Analysis of an IPL Match using SVM Binary Classifier",
+            "banner": "https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
+            "color": "#e34c26",
+            "lang": "HTML",
+            "date": "2020-09-28T13:58:21Z",
+            "stars": 7,
+            "forks": 7,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "linkpe",
+            "url": "https://github.com/PtPrashantTripathi/linkpe",
+            "description": "Linkpe is a Node.js based API\ud83d\udc33 to generate shareable UPI Payment links",
+            "banner": "https://repository-images.githubusercontent.com/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb",
+            "color": "#e34c26",
+            "lang": "HTML",
+            "date": "2020-10-09T08:16:31Z",
+            "stars": 98,
+            "forks": 64,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "movieinfo",
+            "url": "https://github.com/PtPrashantTripathi/movieinfo",
+            "description": "Movie info app built with OMDb API that gets movie info from IMDb and Rotten Tomatoes.",
+            "banner": "https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
+            "color": "#e34c26",
+            "lang": "HTML",
+            "date": "2020-10-06T10:02:13Z",
+            "stars": 9,
+            "forks": 6,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "VedicJyotish",
+            "url": "https://github.com/PtPrashantTripathi/VedicJyotish",
+            "description": null,
+            "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
+            "color": "#3178c6",
+            "lang": "TypeScript",
+            "date": "2019-03-20T14:24:46Z",
+            "stars": 20,
+            "forks": 5,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "cloud-storage-system",
+            "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
+            "description": "An Online Cloud Storage System, with functionality to add/upload/modify data on the real-time cloud.",
+            "banner": "https://opengraph.githubassets.com/b8db74c5fbf904edf7be1d2cdf2da6a5a3429b37d6a31665e350713ec72b3516/PtPrashantTripathi/cloud-storage-system",
+            "color": "#b07219",
+            "lang": "Java",
+            "date": "2019-04-08T19:14:55Z",
+            "stars": 18,
+            "forks": 10,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "Adhyatma",
+            "url": "https://github.com/PtPrashantTripathi/Adhyatma",
+            "description": "An Emotional State vedic scripture Quotes Serach Engain",
+            "banner": "https://opengraph.githubassets.com/f5ccc54a4fb89c28a14462807a56a44453025de20b7fcc56f3db847c43ee1de7/PtPrashantTripathi/Adhyatma",
+            "color": "#4F5D95",
+            "lang": "PHP",
+            "date": "2019-03-12T18:04:10Z",
+            "stars": 9,
+            "forks": 1,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "php-social-networking-site",
+            "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
+            "description": "A social Networking Site for student to show there project works and skills",
+            "banner": "https://opengraph.githubassets.com/1abc858be9f8eca776d4c19c23b1336bcfac94281bda8dda0ccd8f943c98f489/PtPrashantTripathi/php-social-networking-site",
+            "color": "#4F5D95",
+            "lang": "PHP",
+            "date": "2019-02-23T17:05:29Z",
+            "stars": 9,
+            "forks": 0,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        },
+        {
+            "name": "AadhaarQRCodeReader",
+            "url": "https://github.com/PtPrashantTripathi/AadhaarQRCodeReader",
+            "description": "\ud83c\uddee\ud83c\uddf3 Offline Aadhaar Secure QR Code Reader \u2014 scan or upload any Aadhaar card QR to instantly decode identity details. Pure HTML/CSS/JS, no server, no data leaves your device.",
+            "banner": "https://repository-images.githubusercontent.com/1263970137/45ddcf33-5cb9-4eb7-9c51-663038717e7c",
+            "color": "#f1e05a",
+            "lang": "JavaScript",
+            "date": "2026-06-09T12:43:51Z",
+            "stars": 0,
+            "forks": 0,
+            "generatedOn": "2026-06-10 12:35:25.528374"
+        }
+    ],
+    "contact": [
+        {
+            "id": "tt6",
+            "class": "facebook-link",
+            "icon": "zmdi-facebook",
+            "url": "https://facebook.com/ptprashant09",
+            "label": "facebook"
+        },
+        {
+            "id": "tt7",
+            "class": "twitter-link",
+            "icon": "zmdi-twitter",
+            "url": "https://twitter.com/PtPrashant09",
+            "label": "twitter"
+        },
+        {
+            "id": "tt8",
+            "class": "linkedin-link",
+            "icon": "zmdi-linkedin",
+            "url": "https://www.linkedin.com/in/ptprashanttripathi/",
+            "label": "linkedin"
+        },
+        {
+            "id": "tt10",
+            "class": "youtube-link",
+            "icon": "zmdi-youtube-play",
+            "url": "https://www.youtube.com/channel/UCqvHCmcCjWQ57lWmfDj2ZMg",
+            "label": "youtube"
+        },
+        {
+            "id": "tt11r",
+            "class": "reddit-link",
+            "icon": "zmdi-reddit",
+            "url": "https://www.reddit.com/user/PtPrashantTripathi",
+            "label": "reddit"
+        },
+        {
+            "id": "tt12i",
+            "class": "instagram-link",
+            "icon": "zmdi-instagram",
+            "url": "https://www.instagram.com/ptprashanttripathi/",
+            "label": "instagram"
+        },
+        {
+            "id": "tt9",
+            "class": "github-link",
+            "icon": "zmdi-github",
+            "url": "https://www.github.com/ptprashanttripathi/",
+            "label": "github"
+        }
+    ]
+}
