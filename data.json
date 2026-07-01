@@ -212,26 +212,26 @@
         {
             "name": "vedic",
             "url": "https://github.com/vedic-lang/vedic",
-            "description": "World's first working Sanskrit programming language — write code in Devanagari script.",
-            "banner": "https://opengraph.githubassets.com/b3ba0663960979456bf07dc575ab0bd1f726ba3714cc831610e851d72b084ca1/vedic-lang/vedic",
+            "description": "World's first working Sanskrit programming language — write code in Devanagari/Sanskrit.",
+            "banner": "https://opengraph.githubassets.com/5b87b0d374f186136ceb3f63eefda5fdbb29009a8d869828260976c9058cbc58/vedic-lang/vedic",
             "color": "#dea584",
             "lang": "Rust",
             "date": "2022-04-11T12:06:09Z",
             "stars": 320,
-            "forks": 43,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "forks": 44,
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "bhagavad-gita-api",
             "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
-            "description": "Open-source REST API serving all 18 chapters and 700 verses of the Bhagavad Gita.",
+            "description": "Open-source REST API serving all 18 chapters and 700 verses of the Vedic Scripture Shrimad Bhagavad Gita.",
             "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
             "color": "#f1e05a",
             "lang": "JavaScript",
             "date": "2020-11-19T09:58:47Z",
-            "stars": 202,
+            "stars": 204,
             "forks": 33,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "PortfolioTracker",
@@ -241,9 +241,9 @@
             "color": "#3572A5",
             "lang": "Python",
             "date": "2023-10-30T19:20:07Z",
-            "stars": 2,
+            "stars": 3,
             "forks": 2,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "AadhaarQRCodeReader",
@@ -255,7 +255,7 @@
             "date": "2026-06-09T12:43:51Z",
             "stars": 0,
             "forks": 0,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "linkpe",
@@ -265,9 +265,9 @@
             "color": "#e34c26",
             "lang": "HTML",
             "date": "2020-10-09T08:16:31Z",
-            "stars": 98,
-            "forks": 64,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "stars": 100,
+            "forks": 63,
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "movieinfo",
@@ -279,7 +279,7 @@
             "date": "2020-10-06T10:02:13Z",
             "stars": 9,
             "forks": 6,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "IPL-2020-Prediction",
@@ -291,19 +291,19 @@
             "date": "2020-09-28T13:58:21Z",
             "stars": 7,
             "forks": 7,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "VedicJyotish",
             "url": "https://github.com/PtPrashantTripathi/VedicJyotish",
-            "description": "Vedic Jyotish astrology app — planetary positions, birth charts, and Vedic predictions.",
+            "description": "Vedic Jyotish astrology app - planetary positions, birth charts, and Vedic predictions.",
             "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
             "color": "#3178c6",
             "lang": "TypeScript",
             "date": "2019-03-20T14:24:46Z",
-            "stars": 20,
-            "forks": 5,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "stars": 21,
+            "forks": 6,
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "cloud-storage-system",
@@ -313,33 +313,33 @@
             "color": "#b07219",
             "lang": "Java",
             "date": "2019-04-08T19:14:55Z",
-            "stars": 18,
+            "stars": 19,
             "forks": 10,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "Adhyatma",
             "url": "https://github.com/PtPrashantTripathi/Adhyatma",
             "description": "Vedic scripture quote search engine — find relevant shlokas based on your emotional state.",
-            "banner": "https://opengraph.githubassets.com/f5ccc54a4fb89c28a14462807a56a44453025de20b7fcc56f3db847c43ee1de7/PtPrashantTripathi/Adhyatma",
+            "banner": "https://opengraph.githubassets.com/07c9c4f50041da220d63bfb3e972fb3b7a21571f8c7caebe854a9d76aebe12d4/PtPrashantTripathi/Adhyatma",
             "color": "#4F5D95",
             "lang": "PHP",
             "date": "2019-03-12T18:04:10Z",
             "stars": 9,
             "forks": 1,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         },
         {
             "name": "php-social-networking-site",
             "url": "https://github.com/PtPrashantTripathi/php-social-networking-site",
             "description": "PHP social networking platform for students to showcase their projects and skills portfolio.",
-            "banner": "https://opengraph.githubassets.com/1abc858be9f8eca776d4c19c23b1336bcfac94281bda8dda0ccd8f943c98f489/PtPrashantTripathi/php-social-networking-site",
+            "banner": "https://opengraph.githubassets.com/83182b089d952dc09e83c133373b4d48d2e698dfbf32bd9f167b2c2e0d61381f/PtPrashantTripathi/php-social-networking-site",
             "color": "#4F5D95",
             "lang": "PHP",
             "date": "2019-02-23T17:05:29Z",
             "stars": 9,
             "forks": 0,
-            "generatedOn": "2026-06-10 14:00:05.629377"
+            "generatedOn": "2026-07-01 04:15:57.137910"
         }
     ],
     "contact": [
