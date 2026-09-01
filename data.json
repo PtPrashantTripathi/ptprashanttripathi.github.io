@@ -213,109 +213,109 @@
             "name": "vedic",
             "url": "https://github.com/vedic-lang/vedic",
             "description": "World's first working Sanskrit programming language — write code in Devanagari/Sanskrit.",
-            "banner": "https://opengraph.githubassets.com/c0adc1d84c9c27952e6ee538973c200034291fe9c9e7acfe86e4d163d5176286/vedic-lang/vedic",
+            "banner": "https://opengraph.githubassets.com/21055013d5dc027c201544b9d231c12952be586825f6d294391e6fb00ae6bab8/vedic-lang/vedic",
             "color": "#dea584",
             "lang": "Rust",
             "date": "2022-04-11T12:06:09Z",
             "stars": 324,
-            "forks": 44,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "forks": 46,
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "bhagavad-gita-api",
             "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
             "description": "Open-source REST API serving all 18 chapters and 700 verses of the Vedic Scripture Shrimad Bhagavad Gita.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032040Z&X-Amz-Expires=300&X-Amz-Signature=72421a160e241cf690dd85e3add48b5b287d6a06534837f2a753c9f4e1c4ac99&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0MCwibmJmIjoxNzg1NTU0NDQwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.zN9vEEevw64ezFxY-E4z3CEyaHmp-Fe1Zi6_YpgP_WA",
+            "banner": "https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679",
             "color": "#f1e05a",
             "lang": "JavaScript",
             "date": "2020-11-19T09:58:47Z",
             "stars": 205,
             "forks": 32,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "PortfolioTracker",
             "url": "https://github.com/PtPrashantTripathi/PortfolioTracker",
             "description": "Upstox trading analysis notebook with Medallion architecture — insights into portfolio performance.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/712092492/7d148f25-5b8d-4c56-bf3d-b3e5f933d2cf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032041Z&X-Amz-Expires=300&X-Amz-Signature=b662e6e6f5eece393aa4b461404693052c28cafddc1f4e0327c2427ee40fd2cb&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0MSwibmJmIjoxNzg1NTU0NDQxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Fd_c-Dd6KsVtiwVQsQm2JtnDHKvAJAjssHzpmN8Dr4c",
+            "banner": "https://repository-images.githubusercontent.com/712092492/7d148f25-5b8d-4c56-bf3d-b3e5f933d2cf",
             "color": "#3572A5",
             "lang": "Python",
             "date": "2023-10-30T19:20:07Z",
             "stars": 3,
             "forks": 2,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "AadhaarQRCodeReader",
             "url": "https://github.com/PtPrashantTripathi/AadhaarQRCodeReader",
             "description": "🇮🇳 Offline Aadhaar QR Reader — scan or upload any Aadhaar card, no server, no data leak.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1263970137/45ddcf33-5cb9-4eb7-9c51-663038717e7c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032042Z&X-Amz-Expires=300&X-Amz-Signature=ac0143c00448d529027f39ad14f0c9d660e1c127b459d1d9740a1369fe33e332&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0MiwibmJmIjoxNzg1NTU0NDQyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ltyQsFuyQvy-oRLWvdtzfwHU0xp6yqtEiGRbxmT5qRQ",
+            "banner": "https://repository-images.githubusercontent.com/1263970137/45ddcf33-5cb9-4eb7-9c51-663038717e7c",
             "color": "#f1e05a",
             "lang": "JavaScript",
             "date": "2026-06-09T12:43:51Z",
-            "stars": 0,
+            "stars": 3,
             "forks": 0,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "linkpe",
             "url": "https://github.com/PtPrashantTripathi/linkpe",
             "description": "Node.js API to generate shareable UPI payment links for seamless peer-to-peer transfers.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032043Z&X-Amz-Expires=300&X-Amz-Signature=63c2c44c9480056361f77f2eedc7dff2de2f64259f83ae4223c0717e401d67b6&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0MywibmJmIjoxNzg1NTU0NDQzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.0cvD5_bk7k6tJKNg5k9R1eT9OwMh5rOS2pMshb9mHPI",
+            "banner": "https://repository-images.githubusercontent.com/302577255/baf4a800-0e84-11eb-9ccd-61f6eeec1ddb",
             "color": "#e34c26",
             "lang": "HTML",
             "date": "2020-10-09T08:16:31Z",
-            "stars": 100,
-            "forks": 64,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "stars": 102,
+            "forks": 63,
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "movieinfo",
             "url": "https://github.com/PtPrashantTripathi/movieinfo",
             "description": "Movie info web app using OMDb API — fetch ratings and details from IMDb and Rotten Tomatoes.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/301684261/b94f3280-083b-11eb-84a9-dc749901f069?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032044Z&X-Amz-Expires=300&X-Amz-Signature=aed6e12d2140ff5aa12534b0498edef7de6d10288eae3d352cbcf542d5140c9e&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0NCwibmJmIjoxNzg1NTU0NDQ0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.O1dY7SP1yvt5HyLNAWOlPLIYm6LCUpVDVmyINwSEaf4",
+            "banner": "https://repository-images.githubusercontent.com/301684261/b94f3280-083b-11eb-84a9-dc749901f069",
             "color": "#e34c26",
             "lang": "HTML",
             "date": "2020-10-06T10:02:13Z",
             "stars": 9,
             "forks": 6,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "IPL-2020-Prediction",
             "url": "https://github.com/PtPrashantTripathi/IPL-2020-Prediction",
             "description": "SVM Binary Classifier predicting IPL 2020 match outcomes using historical match-day data.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032045Z&X-Amz-Expires=300&X-Amz-Signature=d523bf3f14082ee341b147183c5aba3fd88b097b0c6a4e4bf3db7c6f7a81ee13&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0NSwibmJmIjoxNzg1NTU0NDQ1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.3XI1BtX9mAi9owOhhSaCpZ8p03kQqnvE1hlMOaZ64Cw",
+            "banner": "https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2",
             "color": "#e34c26",
             "lang": "HTML",
             "date": "2020-09-28T13:58:21Z",
             "stars": 7,
             "forks": 7,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "VedicJyotish",
             "url": "https://github.com/PtPrashantTripathi/VedicJyotish",
             "description": "Vedic Jyotish astrology app - planetary positions, birth charts, and Vedic predictions.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032046Z&X-Amz-Expires=300&X-Amz-Signature=06dc6dbdde0bb070a730d718bde1ae07d58c76155e5633739135d4a569ed045b&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0NiwibmJmIjoxNzg1NTU0NDQ2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Sn6ne4rq-MTei5YbECmz_fMIikOSjyknObgqGuMA53A",
+            "banner": "https://repository-images.githubusercontent.com/176751084/75dfc580-1238-11eb-9ff5-7c3da715308e",
             "color": "#3178c6",
             "lang": "TypeScript",
             "date": "2019-03-20T14:24:46Z",
             "stars": 21,
             "forks": 6,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "cloud-storage-system",
             "url": "https://github.com/PtPrashantTripathi/cloud-storage-system",
             "description": "Online cloud storage system — upload, modify, and manage your files in real-time on the cloud.",
-            "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/180216704/94d7bb29-7573-4c15-a1e0-b3eae6d41933?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260801T032047Z&X-Amz-Expires=300&X-Amz-Signature=0581a5c95a5f978c7aac9160f46b9813f593d3173edfbde1d94bc64ef982322d&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU1NDc0NywibmJmIjoxNzg1NTU0NDQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.UAMOLjVNFScptc-MYo9rRMfpgZZqh31ZbPUmiaxpzOs",
+            "banner": "https://repository-images.githubusercontent.com/180216704/94d7bb29-7573-4c15-a1e0-b3eae6d41933",
             "color": "#b07219",
             "lang": "Java",
             "date": "2019-04-08T19:14:55Z",
-            "stars": 19,
+            "stars": 18,
             "forks": 10,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "Adhyatma",
@@ -327,7 +327,7 @@
             "date": "2019-03-12T18:04:10Z",
             "stars": 9,
             "forks": 1,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         },
         {
             "name": "php-social-networking-site",
@@ -339,7 +339,7 @@
             "date": "2019-02-23T17:05:29Z",
             "stars": 9,
             "forks": 0,
-            "generatedOn": "2026-08-01 03:20:38.296040"
+            "generatedOn": "2026-09-01 04:21:33.182491"
         }
     ],
     "contact": [
